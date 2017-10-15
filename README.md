@@ -1,28 +1,18 @@
-auto-ml
-===============================
+# auto-ml
 
-version number: 0.0.1
-author: Yuji Mise
+* version number: 0.0.1
+* author: Yuji Mise
 
-Overview
---------
+# Overview
 
 auto machine learning
 
-Installation / Usage
---------------------
+## Installation / Usage
 
-To install use pip:
+### To install use pip:
 
-    $ pip install auto_ml
+```
+$ pip install -r requirements
+```
 
-
-Or clone the repo:
-
-    $ git clone https://github.com/miseyu/auto_ml.git
-    $ python setup.py install
-
-Example
--------
-
-TBD
+### Example
